@@ -1,7 +1,7 @@
 # KJR Underwater Biosecurity — Handover Repository
 
 Dataset preparation scripts for the underwater object detection project
-built by Group 10 for K.J. Ross & Associates (KJR), covering a hierarchical
+built for K.J. Ross & Associates (KJR), covering a hierarchical
 labelling taxonomy and object-detection pipeline for low-visibility
 underwater drone footage.
 
